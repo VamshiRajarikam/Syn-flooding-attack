@@ -12,5 +12,7 @@ TCP three-way handshake, series of steps are:
 A SYN flood attack works by not responding the server/machine with ACK. If server does not get the respond from the client/user, it will send the SYN-ACK again. 
 
 Languages: Python
+
 IDE:Sublime text
+
 Libraries: Scapy
