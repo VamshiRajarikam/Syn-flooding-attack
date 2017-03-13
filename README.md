@@ -13,6 +13,4 @@ A SYN flood attack works by not responding the server/machine with ACK. If serve
 
 Languages: Python
 
-IDE:Sublime text
-
 Libraries: Scapy
